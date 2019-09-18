@@ -2,7 +2,7 @@
 
 ### Schematic 
 
-[![robotic-lspb](assets/demo/schematic.png)](robotic-lspb-control-step-motor.pdf)
+[![robotic-lspb](assets/demo/schematic.png)](assets/demo/robotic-lspb-control-step-motor.pdf)
 
 ### PCB
 
